@@ -1,0 +1,15 @@
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesEstruturais\Composite\bin\Debug\net9.0\CompositeExample.exe
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesEstruturais\Composite\bin\Debug\net9.0\CompositeExample.deps.json
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesEstruturais\Composite\bin\Debug\net9.0\CompositeExample.runtimeconfig.json
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesEstruturais\Composite\bin\Debug\net9.0\CompositeExample.dll
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesEstruturais\Composite\bin\Debug\net9.0\CompositeExample.pdb
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesEstruturais\Composite\obj\Debug\net9.0\CompositeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesEstruturais\Composite\obj\Debug\net9.0\CompositeExample.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesEstruturais\Composite\obj\Debug\net9.0\CompositeExample.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesEstruturais\Composite\obj\Debug\net9.0\CompositeExample.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesEstruturais\Composite\obj\Debug\net9.0\CompositeExample.sourcelink.json
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesEstruturais\Composite\obj\Debug\net9.0\CompositeExample.dll
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesEstruturais\Composite\obj\Debug\net9.0\refint\CompositeExample.dll
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesEstruturais\Composite\obj\Debug\net9.0\CompositeExample.pdb
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesEstruturais\Composite\obj\Debug\net9.0\CompositeExample.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesEstruturais\Composite\obj\Debug\net9.0\ref\CompositeExample.dll
