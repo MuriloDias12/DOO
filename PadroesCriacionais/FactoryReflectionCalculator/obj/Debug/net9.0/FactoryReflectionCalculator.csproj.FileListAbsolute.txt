@@ -1,0 +1,15 @@
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesCriacionais\FactoryReflectionCalculator\bin\Debug\net9.0\FactoryReflectionCalculator.exe
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesCriacionais\FactoryReflectionCalculator\bin\Debug\net9.0\FactoryReflectionCalculator.deps.json
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesCriacionais\FactoryReflectionCalculator\bin\Debug\net9.0\FactoryReflectionCalculator.runtimeconfig.json
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesCriacionais\FactoryReflectionCalculator\bin\Debug\net9.0\FactoryReflectionCalculator.dll
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesCriacionais\FactoryReflectionCalculator\bin\Debug\net9.0\FactoryReflectionCalculator.pdb
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesCriacionais\FactoryReflectionCalculator\obj\Debug\net9.0\FactoryReflectionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesCriacionais\FactoryReflectionCalculator\obj\Debug\net9.0\FactoryReflectionCalculator.AssemblyInfoInputs.cache
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesCriacionais\FactoryReflectionCalculator\obj\Debug\net9.0\FactoryReflectionCalculator.AssemblyInfo.cs
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesCriacionais\FactoryReflectionCalculator\obj\Debug\net9.0\FactoryReflectionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesCriacionais\FactoryReflectionCalculator\obj\Debug\net9.0\FactoryReflectionCalculator.sourcelink.json
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesCriacionais\FactoryReflectionCalculator\obj\Debug\net9.0\FactoryReflectionCalculator.dll
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesCriacionais\FactoryReflectionCalculator\obj\Debug\net9.0\refint\FactoryReflectionCalculator.dll
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesCriacionais\FactoryReflectionCalculator\obj\Debug\net9.0\FactoryReflectionCalculator.pdb
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesCriacionais\FactoryReflectionCalculator\obj\Debug\net9.0\FactoryReflectionCalculator.genruntimeconfig.cache
+C:\Users\muril\OneDrive\Desktop\DOO\DOO\chsarp\PadroesCriacionais\FactoryReflectionCalculator\obj\Debug\net9.0\ref\FactoryReflectionCalculator.dll
